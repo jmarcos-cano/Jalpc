@@ -1,22 +1,29 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+- name: Dockemu
+  i18n: Dockemu
+  gh_user: jmarcos-cano
+  repo: Dockemu
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: |
+   Was one of the three projects I used as a co-author for an IEEE publication abou MANETS,
+   this project was a challenge because it was a network emulation tool using NS3 with Docker. 
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: docker-giphy
+  i18n: docker-giphy
+  gh_user: jmarcos-cano
+  repo: docker-giphy
+  img: /static/assets/img/landing/jekyll.png
+  desc: |
+   "Simple 2 tier application using: NodeJS and Nginx, the application I used at several Docker workshops 
+   to show docker-compose and docker swarm mode. "
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Doke
+  i18n: Doke
+  gh_user: jmarcos-cano
+  repo: Doke
+  img: /static/assets/img/landing/jekyll.png
+  desc: |
+   Simple Make + docker-compose to build Docker images alla Victor Farcic. (CFP) 
+

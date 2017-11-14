@@ -1,29 +1,104 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: mobi
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: |
+      Working as a devops manager and in charge of the transformation and adoption of 
+      Docker containers in production, improved the whole software delivery pipeline
+      with automation and Docker containers.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: May. 2017 -  Current
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Devops Manager
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Autobytel
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: |
+      Lead the tranformation of the continuous delivery process using 
+       AWS infrastructure Generatio, Deployments via ECS, Docker containers,
+       Ansible and Terraform, Jenkins, Automated testing.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Dec. 2016 - May. 2017
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Automation Engineering Manager / RelEng manager
     i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Autoweb
+    i18n: company_c
+  desc:
+    detail: |
+      Implemented CI/CD and improved release management process to deliver better software.       
+    i18n: company_c_desc
+  date:
+    detail: Sept. 2015 - Dec. 2016
+    i18n: company_c_date
+  job:
+    detail: Release Manager
+    i18n: company_c_job
+  icon: fa-plus-square
+
+
+
+- name:
+    detail: Startrack
+    i18n: company_e
+  desc:
+    detail: |
+      Was in charged of / developed  :Networking, monitoring, information security, 
+      administration, automation, continuous integration systems, configuration management and
+      release manager.      
+    i18n: company_e_desc
+  date:
+    detail: Jun. 2013 - Sep. 2016
+    i18n: company_e_date
+  job:
+    detail: System Administrator
+    i18n: company_e_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Wooxo.fr
+    i18n: company_d
+  desc:
+    detail: |
+      Modernized a NodeJS + PM2 deployment application into Docker containers, 
+      also created the deployment mechanisms using ChatOps and worked as a system administrator and 
+      Systems automation.       
+    i18n: company_d_desc
+  date:
+    detail: Mar. 2015 - Jul. 2015
+    i18n: company_d_date
+  job:
+    detail: Devops Consultant
+    i18n: company_d_job
+  icon: fa-plus-square
+
+- name:
+    detail: Voltvision
+    i18n: company_f
+  desc:
+    detail: |
+      Developed software for Buffalo Botanical Gardens (2014 and 2013) in the lighting industry, 
+      using RPi + Python and C.       
+    i18n: company_f_desc
+  date:
+    detail: Sept. 2015 - Dec. 2016
+    i18n: company_f_date
+  job:
+    detail: Embedded software developer
+    i18n: company_f_job
   icon: fa-plus-square

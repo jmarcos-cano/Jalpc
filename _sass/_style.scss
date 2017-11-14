@@ -51,14 +51,14 @@ h3, h4, h5 {
     color: #999c9e;
   }
   > li.active > a {
-    color: #fff;
+    color: #3385FF;
   }
 }
 
 .navbar-default .nav > li > a {
   &:focus, &:hover {
     background-color: #293846;
-    color: #fff;
+    color: #3385FF;
   }
 }
 
@@ -231,7 +231,7 @@ body.canvas-menu .nav-header {
       }
     }
     &.active {
-      background: #fff;
+      background: #3385FF;
       border: none;
       > a {
         color: #3385FF;
@@ -2407,7 +2407,7 @@ body {
     border-color: transparent;
     transition: all .3s ease-in-out 0s;
     .nav li a {
-      color: #fff;
+      color: #38526E;
       font-family: 'Open Sans', helvetica, arial, sans-serif;
       font-weight: 700;
       letter-spacing: 1px;
@@ -2423,11 +2423,11 @@ body {
     .navbar-nav > {
       .active > a {
         background: 0 0;
-        color: #fff;
+        color: #38526E;
         border-top: 6px solid #3385FF;
         &:hover {
           background: 0 0;
-          color: #fff;
+          color: #38526E;
           border-top: 6px solid #3385FF;
         }
       }
