@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Marcos Cano  # Be used at blog posts' author.
   first_name: Marcos  # Be used at index page about me section.
   last_name: Cano  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/marcos_photo.jpg  # upload your avatar at directory and edit it.
   github_username: jmarcos-cano  # Leave blank if you don't have now
   linkedin_id: marcos-cano-804a1787 # Leave blank if you don't have now
   twitter_username: Marcos_Kno  # Leave blank if you don't have now
